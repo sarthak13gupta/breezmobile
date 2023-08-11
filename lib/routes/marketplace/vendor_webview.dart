@@ -13,6 +13,7 @@ import 'package:webview_flutter/webview_flutter.dart';
 // Import for Android features.
 import 'package:webview_flutter_android/webview_flutter_android.dart';
 
+import '../../bloc/marketplace/marketplace_bloc.dart';
 import '../../bloc/marketplace/nostr_settings.dart';
 import 'webln_handlers.dart';
 
